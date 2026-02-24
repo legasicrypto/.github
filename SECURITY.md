@@ -8,7 +8,7 @@ Security issues are accepted for active repositories in the `legasicrypto` organ
 
 Do not open public issues for security findings.
 
-- Email: `security@legasi.crypto` (or your internal security alias)
+- Email: `arthur@legasi.io` (or your internal security alias)
 - Include reproduction steps, impact, and affected repository/commit
 - Include any proof-of-concept details needed to reproduce safely
 
