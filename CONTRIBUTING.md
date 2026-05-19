@@ -12,6 +12,7 @@
 - Keep PRs small and reviewable.
 - Describe what changed, why, and how to test.
 - Do not commit secrets, credentials, or generated private keys.
+- **Regression tests are mandatory** for bug fixes and new endpoints. If your change fixes a bug, include a test that would have caught it. Config-only changes (env vars, deploy scripts) are exempt.
 
 ## Commit Hygiene
 
