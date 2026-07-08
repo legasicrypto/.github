@@ -4,7 +4,7 @@ This repository (`legasicrypto/.github`) defines **organization-wide defaults** 
 - contribution standards (humans + AI agents)
 - security policy and reporting
 - PR/issue templates
-- CODEOWNERS defaults and review expectations (where applicable)
+- review expectations (note: CODEOWNERS is **not** inherited org-wide — each core repo carries its own CODEOWNERS file)
 
 > Public note: This repo is intentionally **safe-to-share**. It does **not** contain secrets, internal IPs/ports, cloud topology details, or operational runbooks.
 
