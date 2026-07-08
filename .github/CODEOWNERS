@@ -1,1 +1,3 @@
-* @legasicrypto
+# CODEOWNERS only applies to THIS repo (it is not inherited org-wide).
+# Each core repo needs its own CODEOWNERS file.
+* @artgaspard @ArnaudBD
