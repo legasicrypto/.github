@@ -12,7 +12,7 @@
 - Keep PRs small and reviewable.
 - Describe what changed, why, and how to test.
 - Do not commit secrets, credentials, or generated private keys.
-- **Regression tests are mandatory** for bug fixes and new endpoints. If your change fixes a bug, include a test that would have caught it. Exempt: changes with no behavioral effect — config-only changes (env vars, deploy scripts), docs, and pure visual/copy edits. Anything that changes behavior needs a test.
+- **Regression tests are mandatory** for bug fixes and new endpoints. If your change fixes a bug, include a test that would have caught it. Exempt only when there is no runtime, deployment, security, or user-visible behavioral effect (e.g. docs, pure visual/copy edits). Anything that changes behavior needs a test.
 
 ## Evidence
 
